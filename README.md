@@ -1,9 +1,9 @@
 # Resume Classification Using Machine Learning
 
-## Overview
+## Overview 🔍
 This repository contains a machine learning pipeline designed to automate the classification of resumes into specific job categories. By leveraging Natural Language Processing (NLP) and machine learning models, the project provides an efficient solution to streamline recruitment processes, replacing manual classification with automated predictions.
 
-## Features
+## Features ✨
 
 ### Text Preprocessing
 - Lowercasing text data.
@@ -28,12 +28,12 @@ This repository contains a machine learning pipeline designed to automate the cl
 - Confusion Matrices.
 - Regularization techniques to reduce overfitting.
 
-## Dataset
+## Dataset 📂
 The dataset used for this project is sourced from Kaggle: **Resume Dataset**. It contains over 2,400 resumes across more than 24 job categories. Each resume includes textual data and associated metadata.
 
-## Results
+## Results 📊
 
-### Best Performing Model
+### Best Performing Model 🚀
 - **75% Test Accuracy** using Logistic Regression with L1 regularization and TF-IDF Vectorization.
 
 ### Observations
@@ -42,10 +42,10 @@ The dataset used for this project is sourced from Kaggle: **Resume Dataset**. It
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisites ⚙️
 - **Python** 3.6+
 
-#### Libraries
+#### Libraries 🔧
 - `nltk`, `numpy`, `pandas`, `matplotlib`, `seaborn`
 - `wordcloud`, `sklearn`, `tensorflow`, `gensim`
 
