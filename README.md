@@ -1,7 +1,7 @@
 # Resume Classification Using Machine Learning
 
 ## Overview 🔍
-This repository contains a machine learning pipeline designed to automate the classification of resumes into specific job categories. By leveraging Natural Language Processing (NLP) and machine learning models, the project provides an efficient solution to streamline recruitment processes, replacing manual classification with automated predictions.
+This repository contains a machine-learning pipeline designed to automate the classification of resumes into specific job categories. By implementing Natural Language Processing (NLP) and machine learning models, the project provides an efficient solution to streamline recruitment processes, replacing manual classification with automated predictions.
 
 ## Features ✨
 
